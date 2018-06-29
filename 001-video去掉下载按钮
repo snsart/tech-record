@@ -1,0 +1,2 @@
+controlslist="nodownload" 去掉下载按钮 
+controlslist="nofullscreen" 去掉全部，只显示播放进度
